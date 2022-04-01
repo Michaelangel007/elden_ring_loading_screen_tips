@@ -1,73 +1,73 @@
 # Elden Ring - All Loading Screen Tips
 
-1. Finding Sites of Grace
-2. Messages
-3. Status: Madness
-4. Status: Blood Loss
-5. Equipping Armaments
-6. The Map
-7. Status: Scarlet Rot 
-8. Container Items 
-9. Two-Handing Armaments 
-10. Leveling Up
-11. Bloodstains 
-12. Leaving Co-op Signs
-13. Status: Frost/Frostbite
-14. Summoning Pools
-15. Multiplayer Maximums
-16. Crouching
-17. Phantoms
-18. Reviving After Dying
-19. Equip Load
-20. Status: Poison
-21. Guidance of Grace
-22. Using Torches
-23. Knocking Down Mounted Enemies
-24. Guard Counters
-25. Multiplayer Movement Limits
-26. Gestures
-27. Using Items
-28. Leaving Hostile Signs
-29. Status: Sleep
-30. Mounted Attacks
-31. Stance-Breaking
-32. Poise
-33. While in Combat
-34. Summon Signs
-35. Invasion
-36. Parrying
-37. Spiritspring Jumping
-38. Setting a Target
-39. Requesting Support
-40. Resting at Sites of Grace
-41. Item Crafting
-42. No-Riding Areas
-43. Status: Death
-44. Cooperator's Objective (Furled Finger)
-45. Charge and Jump Attacks
-46. Skill
-47. Teardrop Scarabs
-48. Armament Customization
-49. Multiplayer Passwords
-50. Strengthening Spirits
-51. Sacred Flasks
-52. Summoning Spirits
-53. Advanced Messages
-54. Adversary's Objective (Duelist)
-55. Critical Hits
-56. Fast Travel to Sites of Grace
-57. Group Passwords
-58. Seeing Summon Signs
-59. Guarding
-60. Supporting
-61. Hardened Foes
-62. Dying and Dropping Runes
-63. Precision Aiming
-64. Support Objective (Hunter)
-65. Limits of Guarding
+In order of appearance
 
+1. [Finding Sites of Grace](#finding-sites-of-grace)
+2. [Messages](#messages)
+3. [Status: Madness](#status-madness)
+4. [Status: Blood Loss](#status-blood-loss)
+5. [Equipping Armaments](#equipping-armaments)
+6. [The Map](#the-map)
+7. [Status: Scarlet Rot](#status-scarlet-rot)
+8. [Container Items](#container-items) 
+9. [Two-Handing Armaments](#two-handing-armaments) 
+10. [Leveling Up](#leveling-up)
+11. [Bloodstains](#bloodstains)
+12. [Leaving Co-op Signs](#leaving-co-op-signs)
+13. [Status: Frost/Frostbite](#status-frostfrostbite)
+14. [Summoning Pools](#summoning-pools)
+15. [Multiplayer Maximums](#multiplayer-maximums)
+16. [Crouching](#crouching)
+17. [Phantoms](#phantoms)
+18. [Reviving After Dying](#reviving-after-dying)
+19. [Equip Load](#equip-load)
+20. [Status: Poison](#status-poison)
+21. [Guidance of Grace](#guidance-of-grace)
+22. [Using Torches](#using-torches)
+23. [Knocking Down Mounted Enemies](#knocking-down-mounted-enemies)
+24. [Guard Counters](#guard-counters)
+25. [Multiplayer Movement Limits](#multiplayer-movement-limits)
+26. [Gestures](#gestures)
+27. [Using Items](#using-items)
+28. [Leaving Hostile Signs](#leaving-hostile-signs)
+29. [Status: Sleep](#status-sleep)
+30. [Mounted Attacks](#mounted-attacks)
+31. [Stance-Breaking](#stance-breaking)
+32. [Poise](#poise)
+33. [While in Combat](#while-in-combat)
+34. [Summon Signs](#summon-signs)
+35. [Invasion](#invasion)
+36. [Parrying](#parrying)
+37. [Spiritspring Jumping](#spiritspring-jumping)
+38. [Setting a Target](#setting-a-target)
+39. [Requesting Support](#requesting-support)
+40. [Resting at Sites of Grace](#resting-at-sites-of-grace)
+41. [Item Crafting](#item-crafting)
+42. [No-Riding Areas](#no-riding-areas)
+43. [Status: Death](#status-death)
+44. [Cooperator's Objective (Furled Finger)](#cooperators-objective-furled-finger)
+45. [Charge and Jump Attacks](#charge-and-jump-attacks)
+46. [Skill](#skill)
+47. [Teardrop Scarabs](#teardrop-scarabs)
+48. [Armament Customization](#armament-customization)
+49. [Multiplayer Passwords](#multiplayer-passwords)
+50. [Strengthening Spirits](#strengthening-spirits)
+51. [Sacred Flasks](#sacred-flasks)
+52. [Summoning Spirits](#summoning-spirits)
+53. [Advanced Messages](#advanced-messages)
+54. [Adversary's Objective (Duelist)](#adversarys-objective-duelist)
+55. [Critical Hits](#critical-hits)
+56. [Fast Travel to Sites of Grace](#fast-travel-to-sites-of-grace)
+57. [Group Passwords](#group-passwords)
+58. [Seeing Summon Signs](#seeing-summon-signs)
+59. [Guarding](#guarding)
+60. [Supporting](#supporting)
+61. [Hardened Foes](#hardened-foes)
+62. [Dying and Dropping Runes](#dying-and-dropping-runes)
+63. [Precision Aiming](#precision-aiming)
+64. [Support Objective (Hunter)](#support-objective-hunter)
+65. [Limits of Guarding](#limits-of-guarding)
 
-# In order of appearance
 
 # Finding Sites of Grace
 Sites of grace that you haven't discovered yet illuminate their surroundings.
@@ -98,6 +98,7 @@ Some armaments, such as shields, have different actions depending on which hand 
 # The Map
 Use your map to check your current position, as well as the terrain and surrounding structures.
 You can update your map with new information by finding map fragments at steles along the road.
+
 (\[\]\[\]): Map
 
 # Status: Scarlet Rot
@@ -112,6 +113,7 @@ Container items will run out with use, but the containers themselves will remain
 Wielding an armament in two hands will increase your effective strength for that armament by 50%.
 This eases attribute requirements, and armaments that scale with strength will do more damage. In addition, attacks
 with that armament are more difficult to repel with shields.
+
 Y+(LB)/(RB): Wield with two hands
 
 # Leveling Up
@@ -146,6 +148,7 @@ The host player can use a Taunter's Tongue to increase the maximum number of inv
 Crouch to make it harder for enemies to discover you.
 Especially effective in tall grass.
 Attacking an enemy that hasn't noticed you will cause more damage then usual.
+
 (L3): Crouch/Stand up
 
 # Phantoms
@@ -172,6 +175,7 @@ Their golden rays will guide you along your way.
 
 # Using Torches
 Raise your torch to see further into dark spaces.
+
 (LB) with torch equipped in left hand: Raise torch
 
 # Knocking Down Mounted Enemies
@@ -182,6 +186,7 @@ Charge attacks and jump attacks are particulary likely to knock enemies off thei
 # Guard Counters
 You can perform a counterattack immediately after blocking an enemy attack.
 Guard counters make it easy to break an enemy's stance.
+
 (A) immediately after blocking an attack: Guard Counter
 
 # Multiplayer Movement Limits
@@ -196,7 +201,9 @@ Use "Gestures" from the main menu to perform a variety of basic poses.
 You can equip up to ten items at a time.
 Equipped items can be used without accessing the item menu.
 You can also assign items to your pouch to use them directly from the main menu.
+
 +v: Switch Item
+
 (X): Use item
 
 # Leaving Hostile Signs
@@ -237,16 +244,20 @@ There are other items that allow you to invade other worlds as well.
 # Parrying
 Shields allow you to use the "Parry" skill to deflect enemies' close-range attacks.
 A successful parry will break the attacker's stance, giving you a chance to perform a critical hit.
+
 (LT) in time with an enemy attack: Parry
 
 # Spiritspring Jumping
 Jump while on horseback near a spiritspring to ride its current high into the air.
 You won't take damage from jumping into a spiritspring while on horseback, even from a great height.
+
 (RT) at a spiritspring while on horseback: Spritspring jump
 
 # Setting a Target
 Lock-on to an enemy to keep it targeted, making it easier to focus on it as you fight.
+
 (R3) Reset Camera, Lock-On/Remove Target
+
 (R) while locked-on to a target: Change target
 
 # Requesting Support
@@ -262,6 +273,7 @@ However, most of the enemies you've defeated will be revived.
 # Item Crafting
 If you have a Crafting Kit, you can make various items from materials that you find.
 Select "Item Crafting" from the main menu to make items.
+
 (=) Main Menu
 
 # No-Riding Areas
@@ -281,13 +293,16 @@ A Furled Finger will return to their own world when they die or the boss is defe
 Charge attacks and jump attacks are powerful.
 Using them makes it easy to break an enemy's stance.
 They are also likely to knock mounted enemies off their mounts.
+
 Hold (A): Charge attack
+
 (A) while jumping: Jump attack
 
 # Skill
 Armaments have special abilities called skills.
 Skills are highly varied, and range from powerful attacks to temporary effects.
 Using skills consumes FP.
+
 (LT): Skill
 
 # Teardrop Scarabs
@@ -322,6 +337,7 @@ Summoninig spirits typically consumes FP.
 # Advanced Messages
 You can change the message format to leave more complex messages.
 You can also attach gestures to your messages.
+
 (Y): Change message format
 
 # Adversary's Objective (Duelist)
@@ -332,7 +348,9 @@ A duelist will return to their own world when they die or the Host of Fingers is
 If you get behind an enemy, you'll have a chance to perform a critical hit.
 You can also perform a critical hit after breaking an enemy's stance.
 Stance-break critical hits cause more damage then critical hits from behind.
+
 (RB) when near a backturned enemy: Critical hit
+
 (RB) when near a stance-broken enemy: Critical hit
 
 # Fast Travel to Sites of Grace
@@ -352,6 +370,7 @@ Use an armament in your left hand or both hands to guard against incoming attack
 Shields are particular effective for guarding.
 Guarding comsumes stamina.
 If your stamina runs out, your stance will be broken.
+
 (LB): Guard
 
 # Supporting
@@ -371,13 +390,14 @@ However, if you die again before reclaiming those dropped runes, they will be lo
 When wielding a bow with two hands, you can hold (LB) for precision aiming.
 This lets you aim more precisely with (R).
 You can do major damage to foes of human or similar build by aiming for their heads.
+
 (LB) while wielding a bow with two hands: Precision aiming
 
 # Support Objective (Hunter)
 During supportive multiplayer, a hunter's objective is to defeat an invader.
 A hunter will return to their own world when they die or the invader is defeated, whichever happens first.
 
-Limits of Guarding
+# Limits of Guarding
 Attacks with certain affinities, such as fire or lightning, may make guarding less effective than it is against normal
 physical attacks.
 Guarding does not work again many grappling attacks.
